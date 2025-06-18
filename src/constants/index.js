@@ -56,7 +56,7 @@ export const PROJECTS = [
     image: project3,
     description: "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "JavaScript", "Tailwind"],
-    link: "https://portfolio-dhruvikas-projects-83ad2735.vercel.app/",
+    link: "https://portfolio-bydwf77nj-dhruvikas-projects-5ea9a1be.vercel.app/",
   }
 ];
 
