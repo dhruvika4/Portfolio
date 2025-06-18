@@ -1,7 +1,7 @@
 import emerge from "../assets/projects/emerge.jpg";
 import banksathi from "../assets/projects/banksathi.jpg";
 import lifecell from "../assets/projects/lifecell.jpg";
-import project3 from "../assets/projects/porfolio.jpg";
+import project3 from "../assets/projects/portfolio.jpg";
 
 
 export const HERO_CONTENT = `I am a passionate Frontend Developer with 2+ years of experience building responsive, scalable, and user-centric web applications. My expertise includes Next.js, React.js, Tailwind CSS, JavaScript, TypeScript, and UI libraries like Material UI, Mantine UI, and Bootstrap. Skilled in Redux, WebSocket, GIT, REST API integration, and development tools such as Jira and Docker, I deliver high-quality interfaces that meet modern design and performance standards. Driven by curiosity and a pursuit of technical excellence, I thrive in fast-paced, collaborative environments, solving complex frontend challenges with clean, maintainable code. Outside coding, I enjoy exploring emerging technologies and contributing to open-source projects.`;
